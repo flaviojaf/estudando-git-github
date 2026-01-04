@@ -1,0 +1,15 @@
+
+
+Comandos Git
+
+git init . : torna a pasta “especial”, transformando em um repositório Git vazio.
+
+git status: mostra o status do repostiório.
+
+git add (nome do arquivo): adiciona aquilo que eu quero que vá para o commit (ainda não é o commit).
+
+git commit -m “mensagem”: realiza o commit com uma mensagem.
+
+git config --global user.email "seu email": diz para o git seu email globalmente.
+
+git config --global user.name "seu nome": diz para o git seu nome globalmente.

@@ -1,3 +1,5 @@
+Comandos Bash
+
 ls: lista todos os arquivos que estão no diretório.
 	ls -a: lista os arquivos ocultos do diretório.
 
@@ -7,4 +9,13 @@ pwd (print working directory): caminho até chegar ao diretório.
 
 .. (ponto-ponto): volta para a pasta mãe (pasta de cima).
 
-mkdir (nome): cria uma pasta.
+mkdir (nome da pasta): cria uma pasta.
+
+cat (nome do arquivo): mostra o que tem dentro do arquivo.
+
+rm -rf .git/ : deleta a pasta .git/, desfazendo o repositório.
+	O rf não vai te pedir confirmação e vai apagar todas as subpastas de forma recursiva.
+
+ctrl + insert: copia.
+shift + insert: cola.
+
