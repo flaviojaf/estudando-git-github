@@ -1,0 +1,10 @@
+ls: lista todos os arquivos que estão no diretório.
+	ls -a: lista os arquivos ocultos do diretório.
+
+cd: muda de diretório.
+
+pwd (print working directory): caminho até chegar ao diretório.
+
+.. (ponto-ponto): volta para a pasta mãe (pasta de cima).
+
+mkdir (nome): cria uma pasta.
