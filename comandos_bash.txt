@@ -18,4 +18,5 @@ rm -rf .git/ : deleta a pasta .git/, desfazendo o repositório.
 
 ctrl + insert: copia.
 shift + insert: cola.
+shift + insert: cola.
 

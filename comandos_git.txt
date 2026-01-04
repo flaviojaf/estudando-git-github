@@ -7,9 +7,16 @@ git init . : torna a pasta “especial”, transformando em um repositório Git 
 git status: mostra o status do repostiório.
 
 git add (nome do arquivo): adiciona aquilo que eu quero que vá para o commit (ainda não é o commit).
+	git add . : adiciona os arquivos da pasta atual para o commit.
+	git add * : adiciona todos os arquivos para o commit.	
 
 git commit -m “mensagem”: realiza o commit com uma mensagem.
 
 git config --global user.email "seu email": diz para o git seu email globalmente.
 
 git config --global user.name "seu nome": diz para o git seu nome globalmente.
+
+nano (nome do arquivo): cria um arquivo dentro do editor de texto “nano”.
+
+git log: mostra o histórico dos commits (e o HEAD foi o último commit feito).
+
