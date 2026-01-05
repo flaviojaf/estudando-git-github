@@ -20,3 +20,14 @@ nano (nome do arquivo): cria um arquivo dentro do editor de texto “nano”.
 
 git log: mostra o histórico dos commits (e o HEAD foi o último commit feito).
 
+
+## FLUXO DE TRABALHO
+1. criar o diretório do projeto
+2. iniciar o git dentro do diretório criado (git init .)
+3. editar ou criar arquivos
+4. git status
+5. git add <nome do arquivo>
+6. git status
+7. git commit -m "mensagem"
+8. git status
+9. volta para o passo 3
